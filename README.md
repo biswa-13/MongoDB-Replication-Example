@@ -1,3 +1,4 @@
+<pre>
 # MongoDB-Replication-Example
 This is a step by step guide to setup the mongoDB replication for high availability.
 Author@ BiswaRanjan Samal
@@ -186,4 +187,4 @@ References:
 
 -> Mongodb all configuration files
 //https://github.com/mongodb/docs/tree/master/source/tutorial
-
+</pre>
