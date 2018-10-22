@@ -3,7 +3,7 @@
 This is a step by step guide to setup the mongoDB replication for high availability.
 Author@ BiswaRanjan Samal
 Email@ bichhubiswa@gmail.com
-LicenseType@ MIT License
+LicenseType@ MIT License, Copyright 2018 BiswaRanjan Samal
 ------------------------------------------------------------------------------------
 Steps for creating 3 node ReplicaSet in your local Machine :-
 
